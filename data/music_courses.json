@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Master advanced guitar techniques and take your playing to the next level",
+        "price": 149.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "/courses/advanced-guitar.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Get started with piano and learn the fundamentals in this beginner's course",
+        "price": 89.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": true,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the core principles of music theory to enhance your musicianship",
+        "price": 119.99,
+        "instructor": "Robert Lee",
+        "isFeatured": true,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Drumming Basics",
+        "slug": "drumming-basics",
+        "description": "Learn the basics of drumming, including rhythm, timing, and techniques",
+        "price": 79.99,
+        "instructor": "Tom Harris",
+        "isFeatured": true,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Songwriting Masterclass",
+        "slug": "songwriting-masterclass",
+        "description": "Discover the secrets to writing powerful songs in this advanced songwriting course",
+        "price": 199.99,
+        "instructor": "Emily White",
+        "isFeatured": true,
+        "image": "/courses/songwriting.jpg"
+      }
+    ]
+  }
+  
