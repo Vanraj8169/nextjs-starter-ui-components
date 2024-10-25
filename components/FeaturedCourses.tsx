@@ -4,11 +4,11 @@ import courseData from "../data/music_courses.json";
 import Link from "next/link";
 import { BackgroundGradient } from "./ui/background-gradient";
 interface CourseType {
-  id: Number;
+  id: number;
   title: String;
   slug: String;
   description: String;
-  price: Number;
+  price: number;
   instructor: String;
   isFeatured: Boolean;
   image: String;
